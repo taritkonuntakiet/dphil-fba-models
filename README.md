@@ -2,7 +2,7 @@ This repository contains the code to generate and simulate the models described 
 
 ### FM-SoFBA-SiFBA
 
-This model runs in MATLAB and can be executed by using the following command: `[ShootFreshWeight] = frameworkmodel(data_set);`. Set `data_set` as `1` to simulate the growth and environmental conditions described in the thesis. The command returns shoot fresh weight predictions over the growth period. Note that the simulation may not proceed if the COBRA Toolbox has not been initialised yet by executing `initCobraToolbox`.
+FM-SoFBA-SiFBA (contained in []())) runs in MATLAB and can be executed by using the following command: `[ShootFreshWeight] = frameworkmodel(data_set);`. Set `data_set` as `1` to simulate the growth and environmental conditions described in the thesis. The command returns shoot fresh weight predictions over the growth period. Note that the simulation may not proceed if the COBRA Toolbox has not been initialised yet by executing `initCobraToolbox`.
 
 ### WholePlantMetabolism
 
